@@ -101,9 +101,4 @@ Use the provided graphical interface to select images and apply processing optio
 - Pillow
 - GFPGAN
 
----
-
-## Suggested Repository Name
-
-- **ImageAI-Pro** (Concise, professional, indicative of image processing and AI usage)
 
