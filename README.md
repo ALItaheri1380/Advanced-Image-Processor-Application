@@ -110,5 +110,6 @@ Use the provided graphical interface to select images and apply processing optio
 - OpenCV
 - Pillow
 - GFPGAN
+- SIGGRAPH 2017
 
 
