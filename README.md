@@ -3,6 +3,15 @@
 ## Description
 Advanced Image Processor is an intuitive GUI application for enhancing and colorizing images using advanced deep learning techniques. Built with Python and PyQt, it leverages GFPGAN to enhance image quality and colorize black-and-white images seamlessly.
 
+### Important: App won't work unless you complete the setup and install all required models.
+
+
+
+
+
+
+
+
 ## Features
 - **Enhance Image Quality** with GFPGAN
 - **Colorize Black & White images** using AI
