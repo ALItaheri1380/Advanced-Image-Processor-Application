@@ -55,18 +55,19 @@ python Image_Processor.py
 ## Application Screenshots
 
 ### Main Interface
-![App Interface](<path-to-app-screenshot>)
+![image (1)](https://github.com/user-attachments/assets/653ad3c4-2502-425d-b09e-18aa66c95673)
+
 
 ### Processing Options Demonstrations:
 
 - **Enhance Image Quality**
-  - ![Enhance Quality](path/to/enhance_image_quality.png)
+  - ![image (2)](https://github.com/user-attachments/assets/4c50cc6b-2079-4f33-8645-9ce962c1537e)
 
 - **Colorize B&W Image**
-  - ![Colorize Image](path/to/colorize_bw_image.png)
+  - ![image (3)](https://github.com/user-attachments/assets/1d4b559f-ab8d-4dc8-98b8-07c6e9a46678)
 
 - **Colorize & Enhance Image**
-  - ![Colorize and Enhance](path/to/colorize_enhance_image.png)
+  - ![image (4)](https://github.com/user-attachments/assets/4c473c8e-0238-48b3-876d-2a38ca9757ea)
 
 ---
 
